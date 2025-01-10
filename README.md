@@ -6,7 +6,7 @@
 
 **Telegram Bot:** [https://t.me/+C5_EqsjSJMMyYmFl](https://t.me/+C5_EqsjSJMMyYmFl)
 
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Ftechshade%2Fterabox-player&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https://github.com/nailincharvi/terabox_player&countColor=%23263759)
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 20px;">
